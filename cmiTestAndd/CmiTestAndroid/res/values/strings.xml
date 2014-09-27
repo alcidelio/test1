@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Cmi Test Android</string>
-    <string name="hello_world">Hello world CMI - Versionado!</string>
+    <string name="hello_world">Hello world CMI - Versionado -Test2!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
