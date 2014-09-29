@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Cmi Test Andd</string>
-    <string name="hello_world">Hello world CMI - Versionado!</string>
+    <string name="hello_world">Hello world CMI-Versionado-TestVM !</string>
     <string name="action_settings">Settings</string>
 
 </resources>
